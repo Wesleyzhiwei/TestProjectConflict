@@ -116,7 +116,7 @@ Children:
       DataType: LocalizedText
       ModellingRule: Optional
       Value: {"LocaleId":"en-US","Text":"Label1"}
-  - Name: Label10
+  - Name: Label11
     Type: Label
     Children:
     - Name: Text
