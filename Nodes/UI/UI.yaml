@@ -100,7 +100,7 @@ Children:
       DataType: Size
       ModellingRule: Optional
       Value: 300.0
-  - Name: Label4
+  - Name: Label5
     Type: Label
     Children:
     - Name: Text
